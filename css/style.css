@@ -19,7 +19,13 @@ time, mark, audio, video {
 }
 
 body {
+    background-color: #94618e;
     line-height:1;
+    color: white;
+}
+
+.jumbotron {
+    background-color:#49274a !important;
 }
 
 article,aside,details,figcaption,figure,
@@ -45,11 +51,12 @@ q:before, q:after {
 h1 {
   font-size: 20vw;
   font-family: 'Chonburi', cursive;
+  align-items: center;
 }
 
 .ui-widget-header {
     background-image: none !important;
-    background-color: #2ECC71 !important;
+    background-color: #f4decb !important;
 }
 
 label{
@@ -80,9 +87,10 @@ input[name="option"] {
 }
 
 #progressbar {
+  float: none;
   margin: auto;
   margin-top: 20px;
-  float: none;
+
   width: 50%;
  }
 

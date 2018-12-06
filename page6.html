@@ -13,10 +13,10 @@
 </head>
 
 <body>
-  <h1><center>Quiz</center></h1>
+  <h1>Quiz</h1>
   <br />
   <br />
-  <center><a href="page1.html" id="start" class="btn btn-primary btn-lg ">Let's Begin</a></center>
+  <a href="#" id="start" class="btn btn-primary btn-lg">Let's Begin</a>
   <br />
   <div class="well jumbotron">
     <h3 id="question"></h3>
@@ -25,10 +25,19 @@
 
     </form>
     <br />
-    <a href="page1.html" id="next" class="button">Next</a><br />
-    <div id="progressbar" class="progress-bar progress-bar-striped"></div>
-  </div>
+    <ul>
+  <li>
+    <h3>Hitler party which came into power in 1933 is known as</h3>
+    <input type="radio" name="question0" value="Labor Party">2<br>
+    <input type="radio" name="question0" value="Nazi Party">1<br>
+    <input type="radio" name="question0" value="Ku-Klux-Klan">3<br>
+    <input type="radio" name="question0" value="Democratic Party">4<br>
+  </li>
 
+</ul>
+
+<button onclick="returnScore()">View Results</button>
+  <div id="result"></div>
 
 </body>
 
