@@ -4,7 +4,7 @@ This is a program that allows a user to choose answers in the questions provided
 ## SETUP/ INSTALLATIONS
 Go through the setup instructions for JavaScript to install the necessary dependencies: -Follow the link to install the nessesary dependancies https://git-scm.com/book/en/v2/Getting-Started-Installing-Git
 
--Click the below link to download the site repository to your local machine. https://github.com/bertocarl/triangle-tracker
+-Click the below link to download the site repository to your local machine. https://github.com/bertocarl/quiz-board
 
 -From a terminal window, change to the local directory where you want to clone your repository.
 
