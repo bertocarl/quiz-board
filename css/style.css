@@ -2,12 +2,7 @@ body {
   font-size: 20px;
   font-family: monospace;
 }
-styledimg {
-background-image: url("img/bg.jpeg");
-background-repeat: no-repeat;
-width: 10px;
-height: 20px;
-}
+
 #container {
   margin: 20px auto;
   background-color: white;
