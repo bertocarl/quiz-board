@@ -40,4 +40,4 @@ For support kindly find me on github with the following link:https://github.com/
 Albert Carlos Omware
 
 ## License
-This project is licensed under the MIT License - see the LICENSE.md file for details
+This project is licensed under the MIT License - see the LICENSE.md file for details which is an open source software and is free to be copied and contributions to make it better.
