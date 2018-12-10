@@ -17,7 +17,7 @@ Go through the setup instructions for JavaScript to install the necessary depend
 
 -User will firstly choose the answers from the options in the check boxes.
 
--The application accepts the answers and computes the input answers.
+-The application accepts the answers and processes the input answers.
 
 -The processed input is output as results and output in percentage score.
 
