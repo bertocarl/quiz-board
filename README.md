@@ -11,7 +11,7 @@ Go through the setup instructions for JavaScript to install the necessary depend
 -Now make changes and use /git add ./ to record the changes and commit the code using /git commit -m ""/ to add comments of what has been done.
 
 -Now push the changes back to the github using the push command /git push origin master/ and go to view the deployment.
-![image](img/quiz.png)
+![image](https://github.com/bertocarl/quiz-board/blob/master/img/quiz.png)
 
 ## BDD
 
